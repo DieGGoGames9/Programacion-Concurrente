@@ -3,7 +3,7 @@ Este proyecto implementa una **Búsqueda Binaria Recursiva** en Python y analiza
 
 ## Cómo ejecutarlo
 1. Asegúrate de tener Python instalado.
-2. Ejecuta el comando: `python busqueda_recursiva.py`
+2. Ejecuta el comando: `python Codigo.py`
 
 ## Contenido del repositorio
 - `Codigo.py`: Código fuente del algoritmo.
